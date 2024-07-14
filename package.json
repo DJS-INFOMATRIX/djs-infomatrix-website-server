@@ -1,12 +1,12 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "DJS INFOMATRIX WEBSITE SERVER",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "nodemon index.js"
+    "server": "node index.js"
   },
   "keywords": [],
   "author": "",
